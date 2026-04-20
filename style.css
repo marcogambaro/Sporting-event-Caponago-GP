@@ -1,0 +1,45 @@
+/*
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Montaga");
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+html{
+	padding: 0px;
+}
+
+.nav{
+	background-color: rgb(255, 64, 64);
+	margin: 0;
+	display: flex;
+	justify-content: left;
+	gap: 5%;
+	padding: 8px 0;
+}
+
+h1 {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+}
+
+.nav-link{
+	font-family: sans-serif;
+	text-decoration: none;
+	color: black;
+}
+
+.nav-link:hover{
+	color: white;
+}
+
+.col--100 {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+}
+.form {
+	padding: 10px 8%;
+}
